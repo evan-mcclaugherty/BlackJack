@@ -1,0 +1,19 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Using delegation design pattern.\"OLOO is the new hotness\" - Kyle Simpson.",
+  "main": "black-jack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-mcclaugherty/BlackJack.git"
+  },
+  "author": "Evan McClaugherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-mcclaugherty/BlackJack/issues"
+  },
+  "homepage": "https://github.com/evan-mcclaugherty/BlackJack#readme"
+}
